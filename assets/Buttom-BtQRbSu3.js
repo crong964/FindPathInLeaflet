@@ -1,0 +1,1 @@
+import{j as r}from"./index-_0T1_xRq.js";function o(e){return r.jsx("button",{className:"border-black hover:border-white rounded-xl border-2 px-2 py-1 bg-white text-black hover:bg-blue-400 ",...e})}export{o as default};
